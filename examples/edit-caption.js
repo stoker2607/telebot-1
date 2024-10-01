@@ -1,5 +1,5 @@
 const TeleBot = require('../');
-const bot = new TeleBot('TELEGRAM_BOT_TOKEN');
+const bot = new TeleBot('8083869894:AAEZ511eBeaxvciQOjPoiwj9FUAbKw1Z8wc');
 
 var lastMessage;
 var photoUrl = 'https://telegram.org/img/tl_card_destruct.gif';
